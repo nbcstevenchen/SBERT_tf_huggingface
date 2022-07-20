@@ -1,2 +1,6 @@
 # SBERT_tf_huggingface  
-This code is inspired by https://huggingface.co/sentence-transformers/xlm-r-bert-base-nli-stsb-mean-tokens
+Loading Sentence BERT to tensorflow.  
+  
+# Reference:
+[1] https://github.com/UKPLab/sentence-transformers  
+[2] https://huggingface.co/sentence-transformers/xlm-r-bert-base-nli-stsb-mean-tokens
